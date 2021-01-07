@@ -1,0 +1,3 @@
+﻿  Yangjinneng_RSADlg.cpp
+c:\users\杨\source\repos\yangjinneng_rsa\yangjinneng_rsa\yangjinneng_rsadlg.cpp(387): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  Yangjinneng_RSA.vcxproj -> C:\Users\杨\source\repos\Yangjinneng_RSA\Debug\Yangjinneng_RSA.exe

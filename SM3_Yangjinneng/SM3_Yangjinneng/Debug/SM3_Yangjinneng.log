@@ -1,0 +1,3 @@
+﻿  SM3_YangjinnengDlg.cpp
+c:\users\杨\source\repos\sm3_yangjinneng\sm3_yangjinneng\sm3_yangjinnengdlg.cpp(409): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  SM3_Yangjinneng.vcxproj -> C:\Users\杨\source\repos\SM3_Yangjinneng\Debug\SM3_Yangjinneng.exe
